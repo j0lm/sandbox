@@ -1,0 +1,5 @@
+- reduce flickering
+- introduce varying velocity
+- find larger gradient
+- automatically fill screen resolution
+- allow live adjustment
