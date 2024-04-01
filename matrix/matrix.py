@@ -29,7 +29,7 @@ def init_display():
 
     
 def print_display(display):
-    hz = 64
+    hz = 10
     period = 1 / hz
     os.system('clear')
     width = len(display[1])
